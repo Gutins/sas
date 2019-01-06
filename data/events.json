@@ -1,0 +1,1 @@
+[null,{"name":"ip","temp":"300","event-type":"3","actions":[{"channel":"5","varName":"global","message":"Entre Em Nosso Servidor, Basta Copiar O IP E Adicionar Na Sua Server List..\n       join Now : Lacteaup.sknd.host","storage":"0","varName2":"5","name":"Send Message"}]},{"name":"NewEvent","temp":"","event-type":"0","actions":[]}]
